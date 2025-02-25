@@ -16,9 +16,9 @@
 </div>
 
 ### Background 
-* In June 2024, Netflix was one of the largest media companies in the world and had a revenue of 9.56 billion dollars.1
-* Netflix believes it could lose 1 billion dollars every year without their recommendation engine.2
-* Netflix creates original content from their recommendation engine with 93% of their original content being renewed.3
+* In June 2024, Netflix was one of the largest media companies in the world and had a revenue of 9.56 billion dollars.
+* Netflix believes it could lose 1 billion dollars every year without their recommendation engine.
+* Netflix creates original content from their recommendation engine with 93% of their original content being renewed.
 
 <div align="center">
   <a href="https://github.com/jedh2/movie_recommender">
@@ -36,7 +36,17 @@ https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 - [x] Movie titles had bad data that required formatting while importing
 - [x] Removed 4499 missing rating rows
 - [x] Reviewed distribution of ratings
+<div align="center">
+  <a href="https://github.com/jedh2/movie_recommender/blob/main/images/ratings.png">
+    <img src="images/ratings.png" alt="Logo" width="691" height="333">
+  </a>
+</div>
 - [x] Plotted movie releases per year
+<div align="center">
+  <a href="https://github.com/jedh2/movie_recommender/blob/main/images/year.png">
+    <img src="images/results.jpg" alt="Logo" width="406" height="318">
+  </a>
+</div>
 
 ### Data Modeling :bar_chart:
 * Used Keras neural network
@@ -47,7 +57,7 @@ https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 * Adam optimizer gave an RMSE of 0.91 
 
 <div align="center">
-  <a href="https://github.com/jedh2/movie_recommender">
+  <a href="https://github.com/jedh2/movie_recommender/blob/main/images/results.jpg">
     <img src="images/results.jpg" alt="Logo" width="274" height="290">
   </a>
 </div>
